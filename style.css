@@ -34,7 +34,7 @@ body{
     font-family: "Concert One", sans-serif;
 }
 
-.btn button,
+.btn1 button,
 .navbar .btn{
     border: 1px solid #035C77;
     background-color: #035C77;
@@ -48,7 +48,9 @@ button:hover,
     background-color: #A1E6ED;
     color:white;
 }
-
+.btn1 {
+    justify-content:flex-start;
+}
 .logo{
     color: #62beda;
     font-size: 20px;
