@@ -129,6 +129,7 @@ a{
     justify-content: space-evenly;
     gap: 10px;
     width: 100%;
+    height: 40vh;
     }
     .intro {
         height: 50vh;
