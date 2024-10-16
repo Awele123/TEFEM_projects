@@ -122,7 +122,9 @@ a{
 }
 
 @media screen and (max-width: 576px) {
-
+.navbar{
+    margin: 0  0 10px 3px;
+}
     .content {
     display: flex;
     flex-direction: column;
